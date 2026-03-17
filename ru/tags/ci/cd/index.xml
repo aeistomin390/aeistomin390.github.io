@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD | </title>
+    <link>https://aeistomin390.github.io/ru/tags/ci/cd/</link>
+      <atom:link href="https://aeistomin390.github.io/ru/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI/CD</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aeistomin390.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>CI/CD</title>
+      <link>https://aeistomin390.github.io/ru/tags/ci/cd/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывное развертывание и CI/CD</title>
+      <link>https://aeistomin390.github.io/ru/publications/01/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aeistomin390.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-непрерывное-развертывание-и-cicd&#34;&gt;🚀 Непрерывное развертывание и CI/CD&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с важной темой в современной разработке — &lt;strong&gt;CI/CD (Continuous Integration / Continuous Delivery / Continuous Deployment)&lt;/strong&gt;. Это подход, который позволяет быстрее и надежнее выпускать программные продукты.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-cicd&#34;&gt;🔧 Что такое CI/CD?&lt;/h2&gt;
+&lt;p&gt;CI/CD — это набор практик, которые автоматизируют процесс разработки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — разработчики регулярно добавляют изменения в общий репозиторий, а система автоматически проверяет код (тесты, сборка).&lt;/li&gt;
+&lt;li&gt;📦 &lt;strong&gt;Continuous Delivery (CD)&lt;/strong&gt; — после успешной проверки код готов к развертыванию в любой момент.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Continuous Deployment&lt;/strong&gt; — каждое изменение автоматически попадает в продакшн без ручного вмешательства.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;⚙️ Почему это важно?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⏱ Быстрый выпуск обновлений&lt;/li&gt;
+&lt;li&gt;🐞 Раннее обнаружение ошибок&lt;/li&gt;
+&lt;li&gt;🔁 Стабильный и предсказуемый процесс разработки&lt;/li&gt;
+&lt;li&gt;🤝 Удобная командная работа&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-как-это-работает-на-практике&#34;&gt;🛠 Как это работает на практике?&lt;/h2&gt;
+&lt;p&gt;Обычно процесс выглядит так:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработчик отправляет код в репозиторий (например, GitHub)&lt;/li&gt;
+&lt;li&gt;Запускается автоматическая сборка проекта&lt;/li&gt;
+&lt;li&gt;Выполняются тесты&lt;/li&gt;
+&lt;li&gt;Если всё успешно — приложение разворачивается&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Для этого используют инструменты:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Actions&lt;/li&gt;
+&lt;li&gt;GitLab CI/CD&lt;/li&gt;
+&lt;li&gt;Jenkins&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-мои-выводы&#34;&gt;📚 Мои выводы&lt;/h2&gt;
+&lt;p&gt;CI/CD — это не просто инструмент, а целая культура разработки. Она помогает писать более качественный код и быстрее доставлять продукт пользователям.&lt;/p&gt;
+&lt;p&gt;Пока я только начинаю разбираться в этой теме, но уже понимаю, что без неё сложно представить современную разработку.&lt;/p&gt;
+&lt;p&gt;Планирую дальше изучать DevOps и пробовать на практике настраивать простые CI/CD пайплайны 🔥&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

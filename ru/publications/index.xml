@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://aeistomin390.github.io/ru/publications/</link>
+      <atom:link href="https://aeistomin390.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aeistomin390.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://aeistomin390.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://aeistomin390.github.io/ru/publications/02/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aeistomin390.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с понятием &lt;strong&gt;легковесных языков разметки&lt;/strong&gt;. Это удобные инструменты, которые позволяют быстро оформлять текст без сложных конструкций, как в HTML.&lt;/p&gt;
+&lt;h2 id=&#34;-что-это-такое&#34;&gt;🔍 Что это такое?&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это простые способы структурирования текста с помощью понятного синтаксиса. Они легко читаются даже без обработки и широко используются в IT.&lt;/p&gt;
+&lt;p&gt;Самый популярный пример — &lt;strong&gt;Markdown&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-где-они-используются&#34;&gt;⚙️ Где они используются?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Документация проектов&lt;/li&gt;
+&lt;li&gt;💻 README-файлы на GitHub&lt;/li&gt;
+&lt;li&gt;📰 Блоги и статьи&lt;/li&gt;
+&lt;li&gt;📚 Заметки и конспекты&lt;/li&gt;
+&lt;li&gt;🌐 Статические сайты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-примеры-возможностей&#34;&gt;✍️ Примеры возможностей&lt;/h2&gt;
+&lt;p&gt;С помощью Markdown можно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Делать &lt;strong&gt;заголовки&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Выделять &lt;em&gt;курсив&lt;/em&gt; и &lt;strong&gt;жирный текст&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Создавать списки&lt;/li&gt;
+&lt;li&gt;Добавлять ссылки и изображения&lt;/li&gt;
+&lt;li&gt;Вставлять код&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Например:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Жирный текст**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Список
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-почему-это-удобно&#34;&gt;🚀 Почему это удобно?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Простота и скорость написания&lt;/li&gt;
+&lt;li&gt;Хорошая читаемость&lt;/li&gt;
+&lt;li&gt;Универсальность&lt;/li&gt;
+&lt;li&gt;Поддержка во многих сервисах&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-мои-выводы&#34;&gt;📚 Мои выводы&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это важный инструмент для любого разработчика. Они позволяют быстро оформлять мысли, писать документацию и делиться знаниями.&lt;/p&gt;
+&lt;p&gt;Теперь стараюсь использовать Markdown для конспектов и учебных заметок — это действительно удобно и практично 👍&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Непрерывное развертывание и CI/CD</title>
+      <link>https://aeistomin390.github.io/ru/publications/01/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aeistomin390.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-непрерывное-развертывание-и-cicd&#34;&gt;🚀 Непрерывное развертывание и CI/CD&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с важной темой в современной разработке — &lt;strong&gt;CI/CD (Continuous Integration / Continuous Delivery / Continuous Deployment)&lt;/strong&gt;. Это подход, который позволяет быстрее и надежнее выпускать программные продукты.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-cicd&#34;&gt;🔧 Что такое CI/CD?&lt;/h2&gt;
+&lt;p&gt;CI/CD — это набор практик, которые автоматизируют процесс разработки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — разработчики регулярно добавляют изменения в общий репозиторий, а система автоматически проверяет код (тесты, сборка).&lt;/li&gt;
+&lt;li&gt;📦 &lt;strong&gt;Continuous Delivery (CD)&lt;/strong&gt; — после успешной проверки код готов к развертыванию в любой момент.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Continuous Deployment&lt;/strong&gt; — каждое изменение автоматически попадает в продакшн без ручного вмешательства.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;⚙️ Почему это важно?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⏱ Быстрый выпуск обновлений&lt;/li&gt;
+&lt;li&gt;🐞 Раннее обнаружение ошибок&lt;/li&gt;
+&lt;li&gt;🔁 Стабильный и предсказуемый процесс разработки&lt;/li&gt;
+&lt;li&gt;🤝 Удобная командная работа&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-как-это-работает-на-практике&#34;&gt;🛠 Как это работает на практике?&lt;/h2&gt;
+&lt;p&gt;Обычно процесс выглядит так:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработчик отправляет код в репозиторий (например, GitHub)&lt;/li&gt;
+&lt;li&gt;Запускается автоматическая сборка проекта&lt;/li&gt;
+&lt;li&gt;Выполняются тесты&lt;/li&gt;
+&lt;li&gt;Если всё успешно — приложение разворачивается&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Для этого используют инструменты:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Actions&lt;/li&gt;
+&lt;li&gt;GitLab CI/CD&lt;/li&gt;
+&lt;li&gt;Jenkins&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-мои-выводы&#34;&gt;📚 Мои выводы&lt;/h2&gt;
+&lt;p&gt;CI/CD — это не просто инструмент, а целая культура разработки. Она помогает писать более качественный код и быстрее доставлять продукт пользователям.&lt;/p&gt;
+&lt;p&gt;Пока я только начинаю разбираться в этой теме, но уже понимаю, что без неё сложно представить современную разработку.&lt;/p&gt;
+&lt;p&gt;Планирую дальше изучать DevOps и пробовать на практике настраивать простые CI/CD пайплайны 🔥&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
