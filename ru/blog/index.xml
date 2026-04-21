@@ -5,12 +5,54 @@
     <link>https://aeistomin390.github.io/ru/blog/</link>
       <atom:link href="https://aeistomin390.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aeistomin390.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://aeistomin390.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://aeistomin390.github.io/ru/blog/02/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aeistomin390.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя прошла в плотном ритме, но уже ощущается уверенность в том, что материал не просто накапливается, а начинает складываться в единую систему знаний.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 В &lt;strong&gt;программировании&lt;/strong&gt; продолжаю усложнять задачи — стал больше внимания уделять читаемости кода и логике решений.&lt;/li&gt;
+&lt;li&gt;📊 В &lt;strong&gt;анализе данных&lt;/strong&gt; попробовал работать с новыми инструментами и глубже разобрался в визуализации.&lt;/li&gt;
+&lt;li&gt;🧠 На занятиях по &lt;strong&gt;информационным системам&lt;/strong&gt; обсуждали реальные кейсы внедрения IT-решений в бизнесе.&lt;/li&gt;
+&lt;li&gt;⚙️ Закрепил понимание &lt;strong&gt;CI/CD&lt;/strong&gt; — стало яснее, как выстраивается полный цикл разработки.&lt;/li&gt;
+&lt;li&gt;🤝 Командная работа вышла на новый уровень: начали лучше распределять роли и быстрее приходить к результату.&lt;/li&gt;
+&lt;li&gt;📚 Продолжаю изучать Python и пробую применять его для автоматизации небольших задач.&lt;/li&gt;
+&lt;li&gt;🌿 Уделяю внимание восстановлению — без этого сложно держать стабильную продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Появляется ощущение движения вперёд: знания становятся более структурированными, а задачи — понятнее и интереснее.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://aeistomin390.github.io/ru/blog/03/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aeistomin390.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя прошла в плотном ритме, но уже ощущается уверенность в том, что материал не просто накапливается, а начинает складываться в единую систему знаний.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 В &lt;strong&gt;программировании&lt;/strong&gt; продолжаю усложнять задачи — стал больше внимания уделять читаемости кода и логике решений.&lt;/li&gt;
+&lt;li&gt;📊 В &lt;strong&gt;анализе данных&lt;/strong&gt; попробовал работать с новыми инструментами и глубже разобрался в визуализации.&lt;/li&gt;
+&lt;li&gt;🧠 На занятиях по &lt;strong&gt;информационным системам&lt;/strong&gt; обсуждали реальные кейсы внедрения IT-решений в бизнесе.&lt;/li&gt;
+&lt;li&gt;⚙️ Закрепил понимание &lt;strong&gt;CI/CD&lt;/strong&gt; — стало яснее, как выстраивается полный цикл разработки.&lt;/li&gt;
+&lt;li&gt;🤝 Командная работа вышла на новый уровень: начали лучше распределять роли и быстрее приходить к результату.&lt;/li&gt;
+&lt;li&gt;📚 Продолжаю изучать Python и пробую применять его для автоматизации небольших задач.&lt;/li&gt;
+&lt;li&gt;🌿 Уделяю внимание восстановлению — без этого сложно держать стабильную продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Появляется ощущение движения вперёд: знания становятся более структурированными, а задачи — понятнее и интереснее.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
